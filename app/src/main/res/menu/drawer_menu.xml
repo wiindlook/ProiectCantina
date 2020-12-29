@@ -6,13 +6,11 @@
             <item
                 android:id="@+id/home"
                 android:icon="@drawable/ic_baseline_home_24"
-                android:title="Home" />
+                android:title="Acasa" />
             <item
-                android:id="@+id/switchMode"
-                android:icon="@drawable/ic_baseline_brightness_3_24"
-                android:title="Dark Mode"
-                app:actionLayout="@layout/switch_item"
-                app:showAsAction="always" />
+                android:id="@+id/setari"
+                android:icon="@drawable/ic_baseline_settings_24"
+                android:title="Setari" />
         </menu>
     </item>
 
